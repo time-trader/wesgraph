@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/213925973.svg)](https://zenodo.org/badge/latestdoi/213925973)
+
 # WESgraph database exports
 
 This repository contains exports from the WESgraph (Wind Energy System graph) database.
